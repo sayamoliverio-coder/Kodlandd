@@ -1,0 +1,26 @@
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 20px; /* El tamaño de la fuente principal en el tag <p></p> */
+    font-weight: bold; /* El grosor de la fuente */
+    background-color: #fafdfa; /* El color del fondo de la página web */
+    color: #d90505; /* El color del texto*/ 
+}
+h1 {
+    color: #000000; /* El color de la cabecera */
+    font-size: 150px; /* El tamaño de la fuente de la cabecera */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, serif; /* La familia tipográfica utilizada en la cabecera */
+    text-align: center; /* La alineación del texto de la cabecera */
+    text-shadow: 2px 2px 4px #000000; /* La sombra del texto de la cabecera */
+}
+button :hover {
+    background-color: #f8f8f8; /* Color de fondo del botón */
+    border: 3px solid #000000; /* Con borde */
+    color: rgb(17, 240, 39); /* Color del texto del botón */
+    padding: 17px 35px; /* Espaciado interno del botón */
+    text-align: center; /* Alineación del texto dentro del botón */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como bloque en línea */
+    font-size: 70px; /* Tamaño de la fuente del botón */
+    margin: 4px 2px; /* Margen alrededor del botón */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+}

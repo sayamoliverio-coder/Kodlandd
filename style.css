@@ -1,0 +1,27 @@
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 20px; /* El tamaño de la fuente principal en el tag <p></p> */
+    font-weight: bold; /* El grosor de la fuente */
+    background-color: #f7f7f7; /* El color del fondo de la página web */
+    color: #05d93e; /* El color del texto*/ 
+    background-image: url('https://wallspic.com/es/tag/paisaje_natural/3840x2160'); /* La imagen de fondo de la página web */
+}
+h1 {
+    color: #2009f4; /* El color de la cabecera */
+    font-size: 100px; /* El tamaño de la fuente de la cabecera */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, serif; /* La familia tipográfica utilizada en la cabecera */
+    text-align: center; /* La alineación del texto de la cabecera */
+    text-shadow: 2px 2px 4px #000000; /* La sombra del texto de la cabecera */
+}
+button :hover {
+    background-color: #f8f8f8; /* Color de fondo del botón */
+    border: 1px solid #8C7853; /* Con borde */
+    color: rgba(10, 8, 8, 0); /* Color del texto del botón */
+    padding: 17px 35px; /* Espaciado interno del botón */
+    text-align: center; /* Alineación del texto dentro del botón */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como bloque en línea */
+    font-size: 20px; /* Tamaño de la fuente del botón */
+    margin: 4px 2px; /* Margen alrededor del botón */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+}
